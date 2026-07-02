@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Research Assistant at Queen Mary University of London, United Kingdom
+subtitle: Postdoctoral Research Assistant\nQueen Mary University of London, United Kingdom
 
 profile:
   align: left
