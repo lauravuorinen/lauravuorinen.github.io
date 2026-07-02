@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: Postdoctoral Research Assistant\nQueen Mary University of London, United Kingdom
