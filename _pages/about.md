@@ -5,9 +5,9 @@ permalink: /
 subtitle: Postdoctoral Research Assistant at Queen Mary University of London, United Kingdom
 
 profile:
-  align: right
+  align: left
   image: LauraVuorinen_kuva_v2.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
