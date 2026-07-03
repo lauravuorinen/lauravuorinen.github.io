@@ -6,7 +6,7 @@ subtitle: "Postdoctoral Research Assistant<br>Queen Mary University of London<br
 
 profile:
   align: left
-  image:  # LauraVuorinen_kuva_v2.jpg
+  image: LauraVuorinen_kuva_v2.jpg
   image_circular: true # crops the image to make it circular
   more_info: 
 
